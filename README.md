@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/29226004/README.md)
-# Operating Envelope — Field-Deployable OpenFlexure Microscope
-
+# OPEN-ENV: OpenFlexure Operating Envelope Engineering and Validation
+Precision Characterization, Fabrication, and Environmental Compensation
 **Robotics Engineering for a Field-Deployable Open-Source Microscope: Precision Diagnostics and Mechanical Fabrication on the OpenFlexure Platform**
 
 A robotics-engineering research project that measures the *operating envelope* of a low-cost, 3D-printed open-source microscope — the range of temperature and vibration over which it still meets its performance targets — and builds and tests targeted fabrication that pushes that boundary outward.
